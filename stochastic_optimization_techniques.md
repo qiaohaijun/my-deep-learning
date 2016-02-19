@@ -2,7 +2,6 @@ http://colinraffel.com/wiki/stochastic_optimization_techniques
 
 ---
 
-{{tag>"Paper summaries" "Neural Networks" "Optimization"}}
 
 ====== Stochastic Optimization Techniques ======
  
