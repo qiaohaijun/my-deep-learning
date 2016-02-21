@@ -41,3 +41,12 @@ facebook
 
 1. alexnet
 2. vgg
+
+
+---
+http://tech.sina.com.cn/e/z/2016-01-29/doc-ifxnzanh0296839.shtml?cre=techpagepc&mod=f&loc=2&r=9&rfunc=86
+
+李菲菲和同事曾创立ImageNet，一个包含了超过100万张带有内容标记的图片的数据库。每一年的ImageNet大型视觉识别挑战赛，就是使用这个数据库来测试计算机自动识别图像内容的能力。最近一次ImageNet大赛是在2015年12月，微软凭借多达152层的深层神经网络获胜。
+
+---
+
