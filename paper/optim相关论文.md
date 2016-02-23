@@ -1,6 +1,6 @@
 1. Ruder, An overview of gradient descent optimization algorithms http://sebastianruder.com/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms
 2. https://climin.readthedocs.org/en/latest/#optimizer-overview
-3. Schaul, Antonoglou, Silver, Unit Tests for Stochastic Optimization
+3. Schaul, Antonoglou, Silver, Unit Tests for Stochastic Optimization http://arxiv.org/pdf/1312.6055v3.pdf
 4. Sutskever, Martens, Dahl, and Hinton, “On the importance of initialization and momentum in deep learning” (ICML 2013)
 5. Dyer, “Notes on AdaGrad”
 6. Duchi, Hazan, and Singer, “Adaptive Subgradient Methods for Online Learning and Stochastic Optimization” (COLT 2010)
