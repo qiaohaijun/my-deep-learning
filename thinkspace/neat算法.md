@@ -21,4 +21,8 @@ https://segmentfault.com/a/1190000004524085
 
 Neuroevolution 
 https://www.youtube.com/watch?v=OKTD_VedHdA
+
+---
+http://www.cs.ucf.edu/~kstanley/neat.html
+
 ---
